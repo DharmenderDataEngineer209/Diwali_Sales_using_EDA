@@ -1,3 +1,7 @@
+
+
+![EDA](https://github.com/user-attachments/assets/deca5cfa-c13b-482f-80fb-55cbdb80a5f9)
+
 # Diwali Sales Analysis
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a dataset containing sales data for Diwali. The goal is to extract valuable insights into customer behavior, product performance, and overall sales trends.
